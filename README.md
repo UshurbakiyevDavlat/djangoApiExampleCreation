@@ -1,2 +1,2 @@
-# djangoApiCreation
+# djangoApiExampleCreation
 Django api creation example project
